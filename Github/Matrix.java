@@ -3,7 +3,7 @@ package com.Bonus;
 import java.util.Scanner;
 
 /*
- * Create a class called ëMatrixí containing constructor that initializes the number of rows
+ * Create a class called ‚ÄòMatrix‚Äô containing constructor that initializes the number of rows
 and number of columns of a new Matrix object. The Matrix class has the following
 information:
 5.1. Number of rows of matrix
@@ -13,7 +13,7 @@ The Matrix class has methods for each of the following:
 1. Get the number of rows
 2. Get the number of columns
 3. Set the elements of the matrix at given position (i, j)
-4. adding two matrices. If the matrices are not addable, ìMatrices cannot be addedî will be displayed.
+4. adding two matrices. If the matrices are not addable, ‚ÄúMatrices cannot be added‚Äù will be displayed.
 5. multiplying the two matrices
  */
 class TwoD
@@ -133,5 +133,5 @@ public class Matrix {
 		obj.addMat();
 
 	}
-
+ 
 }
