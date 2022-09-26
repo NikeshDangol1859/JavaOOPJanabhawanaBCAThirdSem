@@ -1,6 +1,6 @@
 package com.Bonus;
 /*
-  Print the average of three numbers entered by user by creating a class named ‘Average’
+  Print the average of three numbers entered by user by creating a class named â€˜Averageâ€™
 having a method to calculate and print the average.
  */
 import java.util.Scanner;
@@ -37,5 +37,5 @@ public class Average {
 		ave.display();
 
 	}
-
+ 
 }
