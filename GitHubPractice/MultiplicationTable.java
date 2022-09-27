@@ -21,5 +21,5 @@ public class MultiplicationTable {
 		obj.Mul(a);
 		
 	}
-
+ 
 }
