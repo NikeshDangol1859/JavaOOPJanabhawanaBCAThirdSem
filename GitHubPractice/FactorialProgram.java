@@ -24,20 +24,4 @@ public class FactorialProgram {
 }
 
 
-/*
- #include<stdio.h>
- int main()
- {
- int a 
- a+b;
- 
- return(0)
- 
- }
- int add(int a, int b)
- {
- 
- 
- }
- */
  
